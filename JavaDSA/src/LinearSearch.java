@@ -1,3 +1,5 @@
+// TIME COMPLEXITY = O(n)
+//SPACE COMPLEXITY = O(1)
 public class LinearSearch {
     // function
     public static int linearSearch( int[] arr, int target){ // array define , target - variable to store the value we search
@@ -33,3 +35,4 @@ public class LinearSearch {
         }
     }
 }
+
