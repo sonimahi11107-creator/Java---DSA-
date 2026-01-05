@@ -1,5 +1,8 @@
-public class BubbleSorting {
+//time complexity = O(n^2)
 
+
+public class BubbleSorting {
+//method 
     public static void bubbleSorting(int[] arr) {
 
         int n = arr.length;
@@ -28,3 +31,4 @@ public class BubbleSorting {
         }
     }
 }
+
